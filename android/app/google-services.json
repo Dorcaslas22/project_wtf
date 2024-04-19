@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "622076477565",
+    "project_id": "projectwtf-fef2f",
+    "storage_bucket": "projectwtf-fef2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622076477565:android:2b33bc69b809180f1c3114",
+        "android_client_info": {
+          "package_name": "com.dorcas.project_wtf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622076477565-7b1qca20fckd9euia3o2hfh6fa4rve7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dorcas.project_wtf",
+            "certificate_hash": "f0ac93aebb155172dc45caa81c0e0313ec5689fa"
+          }
+        },
+        {
+          "client_id": "622076477565-rsjmmnc7nnr5h9difrmod6bahhbkfb66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjiGxyZMToZ5S2lgjW309qKvp1VmRcME4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622076477565-rsjmmnc7nnr5h9difrmod6bahhbkfb66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622076477565-k9pt4rpcll0lcdb7jo0j8nq7etagqc0v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dorcas.projectWtf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

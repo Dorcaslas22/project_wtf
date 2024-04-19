@@ -1,0 +1,23 @@
+flutter_native_splash:
+  color: "Color.fromRGBO(13, 92, 72, 1)"
+        "Color.fromRGBO(59, 122, 71, 1)"
+        "Color.fromRGBO(144, 151, 65, 1)"
+        "Color.fromRGBO(179, 175, 59, 1)"
+        "Color.fromRGBO(255, 193, 69, 1)"
+    color_white: "#fffffff"
+    image: assets/logos/dark_logo.png
+    image_dark: assets/logos/light_logo.png
+    Text: "ECLEAN"
+
+    android_12:
+      color: "Color.fromRGBO(13, 92, 72, 1)"
+               "Color.fromRGBO(59, 122, 71, 1)"
+               "Color.fromRGBO(144, 151, 65, 1)"
+               "Color.fromRGBO(179, 175, 59, 1)"
+               "Color.fromRGBO(255, 193, 69, 1)"
+               color_white: "#fffffff"
+               image: assets/logos/dark_logo.png
+               image_dark: assets/logos/light_logo.png
+               Text: "ECLEAN"
+
+    web: false
